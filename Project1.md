@@ -96,3 +96,4 @@ Certbot is widely used because it provides a straightforward and automated way t
 
 - Locate and click on **EC2** within the AWS management console.
 
+![1](img/1.png)
